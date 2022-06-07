@@ -2,5 +2,4 @@ jstlsample
 ==========
 
 Test
-Sample
-Third
+Sa mple
